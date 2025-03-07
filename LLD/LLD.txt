@@ -1,0 +1,5 @@
+1) OOPS
+
+2) SOLID
+
+3) Design Patterns -> Strategy, Observer, Decorator, Factory, Abstract Factory, Proxy, Null Object, State, Composite, Adaptor, Singleton, Chain of Responsiblity
