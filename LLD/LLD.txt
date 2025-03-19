@@ -3,3 +3,7 @@
 2) SOLID
 
 3) Design Patterns -> Strategy, Observer, Decorator, Factory, Abstract Factory, Proxy, Null Object, State, Composite, Adaptor, Singleton, Chain of Responsiblity
+
+Also for LLD
+is a relationship
+has a relationship
