@@ -7,10 +7,11 @@ class Movie {
 }
 
 class Theater {
-  constructor(id, name, location) {
+  constructor(id, name, location, city) {
     this.id = id;
     this.name = name;
-    this.location = location;
+    this.location = location; // latitude, longitude
+    this.city = city;
     this.screens = [];
   }
 
